@@ -1,4 +1,4 @@
-//                             STARFIELD !!
+// starfield in JavaScript
 let stars = [];
 let numberStars = 1600;
 let speed = 30;
